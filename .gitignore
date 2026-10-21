@@ -1,0 +1,6 @@
+mcd_token.txt
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
